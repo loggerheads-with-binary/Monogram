@@ -1,0 +1,11 @@
+
+#Desktop Files
+**/desktop.ini
+/desktop.ini
+
+##Compiled files
+*.exe
+**/*.exe
+
+##Media Directory
+/.media
