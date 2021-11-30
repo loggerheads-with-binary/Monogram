@@ -16,4 +16,4 @@ arg_list .= " && pause"
 
 ; Call the program as admin
 
-Run *RunAs cmd.exe /c "%arg_list%" 
+Run *RunAs cmd.exe /c "%arg_list%"
